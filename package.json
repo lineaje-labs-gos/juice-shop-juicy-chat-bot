@@ -1,6 +1,6 @@
 {
   "name": "juicy-chat-bot",
-  "version": "0.9.0",
+  "version": "0.9.0-lineaje-01",
   "types": "dist/index.d.ts",
   "files": [
     "dist/**/*.js",
@@ -21,14 +21,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juice-shop/juicy-chat-bot.git"
+    "url": "https://github.com/lineaje-labs-gos/juice-shop-juicy-chat-bot"
   },
   "license": "MIT",
-  "author": "Björn Kimminich <bjoern.kimminich@owasp.org> (https://kimminich.de)",
   "contributors": [
     "Scar26",
-    "Björn Kimminich"
+    "Bj\u00f6rn Kimminich",
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
   ],
+  "author": "Bj\u00f6rn Kimminich <bjoern.kimminich@owasp.org> (https://kimminich.de)",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
