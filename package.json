@@ -1,6 +1,6 @@
 {
   "name": "juicy-chat-bot",
-  "version": "0.9.0-lineaje-01",
+  "version": "0.9.0-lineaje-02",
   "types": "dist/index.d.ts",
   "files": [
     "dist/**/*.js",
