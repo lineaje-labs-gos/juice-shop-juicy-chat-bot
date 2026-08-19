@@ -65,7 +65,7 @@
     "@nlpjs/nlu": "^4.4.0",
     "@nlpjs/request": "^4.4.0",
     "@nlpjs/sentiment": "^4.4.0",
-    "vm2": ">=3.11.5"
+    "vm2": ">=3.11.6"
   },
   "devDependencies": {
     "@types/node": "^24.3.0",
@@ -75,9 +75,9 @@
     "typescript": "^5.9.2"
   },
   "overrides": {
-    "vm2": ">=3.11.5"
+    "vm2": ">=3.11.6"
   },
   "resolutions": {
-    "vm2": ">=3.11.5"
+    "vm2": ">=3.11.6"
   }
 }
